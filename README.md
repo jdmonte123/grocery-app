@@ -1,1 +1,9 @@
-This is the grocery app project developed using the angular13
+# GroceryApp
+
+## API URL
+
+### http://apolis-grocery.herokuapp.com/api-docs/
+
+## IMAGE URL
+
+### http://rjtmobile.com/grocery/images/
